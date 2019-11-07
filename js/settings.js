@@ -1,13 +1,13 @@
 ﻿var MickmanAppLogin = MickmanAppLogin || {};
 MickmanAppLogin.Settings = MickmanAppLogin.Settings || {};
 //Test URLS
-//MickmanAppLogin.Settings.signInUrl = "https://cpanel-2707-2.datarealm.com/~farasisc/test-mick/login.php";
-//MickmanAppLogin.Settings.tokenUrl = "https://cpanel-2707-2.datarealm.com/~farasisc/test-mick/token.php";
-//MickmanAppLogin.Settings.syncDataUrl = "https://cpanel-2707-2.datarealm.com/~farasisc/test-mick/sync.php";
+MickmanAppLogin.Settings.signInUrl = "https://voilamediagroup.com/test-mick/login.php";
+MickmanAppLogin.Settings.tokenUrl = "https://voilamediagroup.com/test-mick/token.php";
+MickmanAppLogin.Settings.syncDataUrl = "https://voilamediagroup.com/test-mick/sync.php";
 //Live URLS
-MickmanAppLogin.Settings.signInUrl = "https://online.mickman.com/app/login.php";
-MickmanAppLogin.Settings.tokenUrl = "https://online.mickman.com/app/token.php";
-MickmanAppLogin.Settings.syncDataUrl = "https://online.mickman.com/app/sync.php";
+//MickmanAppLogin.Settings.signInUrl = "https://online.mickman.com/app/login.php";
+//MickmanAppLogin.Settings.tokenUrl = "https://online.mickman.com/app/token.php";
+//MickmanAppLogin.Settings.syncDataUrl = "https://online.mickman.com/app/sync.php";
 MickmanAppLogin.Settings.sessionTimeoutInMSec = 31500000; //364 days 14 hours
 
 //database storage
